@@ -1,6 +1,6 @@
-# Lebronify - Static Site Edition
+# Bronify - Static Site Edition
 
-Lebronify is a music streaming app themed around LeBron James parody songs. This repository contains a static version of the application optimized for minimal to no hosting costs while maintaining all the functionality of the original app.
+Bronify is a music streaming app themed around LeBron James parody songs. This repository contains a static version of the application optimized for minimal to no hosting costs while maintaining all the functionality of the original app.
 
 ## Features
 
