@@ -1,4 +1,4 @@
-# Contributing to Lebronify
+# Contributing to Bronify
 
 Thank you for considering contributing to Lebronify! This document provides guidelines and instructions for contributing.
 
